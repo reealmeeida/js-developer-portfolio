@@ -20,12 +20,13 @@
         "logo": "https://raw.githubusercontent.com/reealmeeida/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/reealmeeida/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png
+        "
       },
       {
-        "name": "C#",
-        "logo": "https://raw.githubusercontent.com/reealmeeida/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
         "name": "PHP",
